@@ -35,4 +35,4 @@ Here is the link of our QA System.
 
 ## Welcome to try and give us some feedbacks!
 
-[mainpage]:/Documentation/Screenshot/mainpage.gif
+[mainpage]:mainpage.gif
