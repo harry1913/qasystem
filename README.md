@@ -1,5 +1,8 @@
 # 2017-MSEProject-QAsystem
 
+* https://github.com/harry1913/2017-MSE-QAsystem private repository
+
+
 ## Introduction
 Question answering (QA) system is the system that answers questions posed in natural language automatically. It has emerged as a popular research area these years. Compared with search engine which returns a long list of possibly relevant and long documents, question answering system is preferable since it gives an exact and direct answer. Recently years, question answering systems has witnessed great success. In 2011, Watson, the question answering system developed by IBM Deep QA project, outperformed at two of the best and most successful human champions at a real time American TV quiz show.
 
